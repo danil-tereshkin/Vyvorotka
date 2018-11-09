@@ -1,0 +1,18 @@
+body,
+p.peretc {
+    margin: 0;
+}
+
+div.peretc {
+    background-color: crimson;
+    height: 300px;
+    text-align: center;
+}
+
+p.peretc {
+    font-family: impact;
+    color: #fff;
+    font-size: 10em;
+    position: relative;
+    top: 0.863em;
+}
